@@ -1,0 +1,19 @@
+{
+	"store.login": {
+		"blocks": ["login-content#default"]
+	},
+	"login": {
+		"props": {
+			"blockClass": "login",
+			"iconLabel": "Mi Cuenta",
+			"showIconProfile": true
+		}
+	},
+	"login-content#default": {
+		"props": {
+			"isInitialScreenOptionOnly": false,
+			"defaultOption": 1,
+			"showPasswordVerificationIntoTooltip": true
+		}
+	}
+}
