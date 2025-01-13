@@ -1,0 +1,22 @@
+{
+	"store.custom#libro-de-reclamos": {
+		"blocks": ["flex-layout.row#libro-de-reclamos"]
+	},
+	"flex-layout.row#libro-de-reclamos": {
+		"children": ["libro-de-reclamos"],
+		"props": {
+			"blockClass": ["custom-page", "libro-de-reclamos"],
+			"paddingTop": 5,
+			"paddingBottom": 5
+		}
+	},
+	"libro-de-reclamos": {
+		"props": {
+			"header": {
+				"title": "Ingresa los detalles de tu solicitud",
+				"text": "Libro de Reclamos",
+				"backgroundImage": "https://prd-assets-portal.tramontina.com/xlarge_banner_desk_2b0df1045e.jpg"
+			}
+		}
+	}
+}

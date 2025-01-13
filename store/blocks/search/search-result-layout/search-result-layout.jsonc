@@ -30,6 +30,13 @@
 			"rowGap": 1
 		}
 	},
+	"breadcrumb.search": {
+		"props": {
+			"caretIconSize": 8,
+			"homeIconSize": 26,
+			"showOnMobile": true
+		}
+	},
 	"flex-layout.row#content": {
 		"children": ["flex-layout.col#sidebar", "flex-layout.col#main"],
 		"props": {
