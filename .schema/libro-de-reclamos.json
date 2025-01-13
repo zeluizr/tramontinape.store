@@ -1,5 +1,5 @@
 {
-	"title": "Person",
+	"title": "Libro de Reclamos",
 	"type": "object",
 	"properties": {
 		"firstName": {
