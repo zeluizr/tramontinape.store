@@ -15,7 +15,8 @@
 			"header": {
 				"title": "Ingresa los detalles de tu solicitud",
 				"text": "Libro de Reclamos",
-				"backgroundImage": "https://prd-assets-portal.tramontina.com/xlarge_banner_desk_2b0df1045e.jpg"
+				"backgroundImage": "https://prd-assets-portal.tramontina.com/xlarge_banner_desk_2b0df1045e.jpg",
+				"backgroundColor": "#003087"
 			}
 		}
 	}
