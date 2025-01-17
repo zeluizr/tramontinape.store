@@ -5,7 +5,7 @@
 			"blockClass": "search-result-department",
 			"context": {
 				"maxItemsPerPage": 24,
-				"orderByField": "OrderByTopSaleDESC",
+				"orderByField": "OrderByBestDiscountDESC",
 				"hideUnavailableItems": true,
 				"facetsBehavior": "dynamic",
 				"skusFilter": "ALL_AVAILABLE",
