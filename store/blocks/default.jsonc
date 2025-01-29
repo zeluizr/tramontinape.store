@@ -8,9 +8,7 @@
 			"product-summary-name",
 			"product-summary-space",
 			"flex-layout.row#list-price",
-
-			"product-selling-price",
-			"product-installments"
+			"product-selling-price"
 		]
 	},
 	"flex-layout.row#list-price": {
