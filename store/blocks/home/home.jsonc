@@ -14,8 +14,17 @@
 			"flex-layout.row#shelf-container-blue",
 			"flex-layout.row#full-banner02",
 			"flex-layout.row#shelf-container-04",
-			"flex-layout.row#help-menu"
+			"flex-layout.row#help-menu",
+			"whatsapp"
 		]
+	},
+	"whatsapp": {
+		"props": {
+			"phone": "51924829585",
+			"message": "Hola, ¿cómo puedo ayudarte?",
+			"image": "assets/whatsapp.svg",
+			"size": 75
+		}
 	},
 	"flex-layout.row#help-menu": {
 		"children": ["help-menu"],
