@@ -7,6 +7,18 @@
 	background-color: transparent;
 }
 
+.flexRowContent--shipping-simulator {
+	display: flex !important;
+	flex-direction: column !important;
+}
+
+.flexRowContent--shipping-simulator
+	:global(.vtex-flex-layout-0-x-stretchChildrenWidth) {
+	width: 100% !important;
+	display: flex;
+	flex-direction: column;
+}
+
 .flexRow--top-header :global(.vtex-store-components-3-x-container)::after,
 .flexRow--header-desktop :global(.vtex-store-components-3-x-container)::after {
 	background: linear-gradient(
@@ -171,6 +183,11 @@
 .flexRow--custom-page :global(.vtex-store-components-3-x-container) {
 	width: 100%;
 	max-width: 80rem;
+}
+
+.flexRowContent--one-click-buy :global(.vtex-button) {
+	background-color: #45a8f4;
+	border-color: #45a8f4;
 }
 
 @media (min-width: 1025px) {
