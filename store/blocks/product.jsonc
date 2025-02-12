@@ -94,7 +94,7 @@
 			"product-list-price",
 			"product-selling-price",
 			"product-price-savings",
-			"product-installments",
+			// "product-installments",
 			"sku-selector",
 			"product-quantity",
 			"flex-layout.row#buybutton",
