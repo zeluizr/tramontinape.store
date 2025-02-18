@@ -781,5 +781,33 @@
 					transform="translate(1129.017 1440.124) rotate(-46.945)" fill="#000" />
 			</g>
 		</g>
+		<g id="icon-electrodomesticos" transform="translate(-964 -1428)">
+			<rect id="Retângulo_49" data-name="Retângulo 49" width="16" height="16" transform="translate(964 1428)"
+				fill="#fff" opacity="0" />
+			<g id="Grupo_39" data-name="Grupo 39" transform="translate(-324.762 1.714)">
+				<rect id="Retângulo_45" data-name="Retângulo 45" width="2.224" height="1.171"
+					transform="translate(1291.79 1428.341)" fill="#000" />
+				<rect id="Retângulo_46" data-name="Retângulo 46" width="2.224" height="1.171"
+					transform="translate(1295.618 1428.341)" fill="#000" />
+				<path id="Caminho_113" data-name="Caminho 113"
+					d="M102.942,20.285H89.762v5.281h13.766v9.549H91.518a.586.586,0,0,1-.585-.585v-7.8H89.762v7.8a1.758,1.758,0,0,0,1.756,1.756H104.7V22.041a1.758,1.758,0,0,0-1.756-1.756m-12.01,1.171h12.01a.586.586,0,0,1,.585.585V24.4h-12.6Z"
+					transform="translate(1199.5 1406.001)" fill="#000" />
+				<path id="Caminho_114" data-name="Caminho 114"
+					d="M109.039,51.925V46.409a1.758,1.758,0,0,0-1.756-1.756H99.169v5.516a1.758,1.758,0,0,0,1.756,1.756Zm-8.7-1.756V45.824h6.944a.586.586,0,0,1,.585.585v4.345h-6.944a.586.586,0,0,1-.585-.585"
+					transform="translate(1192.626 1388.194)" fill="#000" />
+			</g>
+		</g>
+		<g id="icon-limpieza-y-organizacion" transform="translate(-1063 -1399.256)">
+			<rect id="Retângulo_61" data-name="Retângulo 61" width="16" height="16" transform="translate(1063 1399.256)"
+				fill="#fff" opacity="0.004" />
+			<g id="Grupo_52" data-name="Grupo 52" transform="translate(1064.569 1399.462)">
+				<path id="Caminho_116" data-name="Caminho 116"
+					d="M69.918,20.806H60.133a1.512,1.512,0,0,0-1.51,1.51v1.646h.862l.1,2.337h1.167l-.1-2.337h3.057v.976h3.172v-.976h.9V22.8h-.9v-.825h3.037a.345.345,0,0,1,.344.344V22.8H68.748v1.166H69.4l-.1,2.337h1.167l.1-2.337h.86V22.316a1.512,1.512,0,0,0-1.51-1.51M59.789,22.8v-.481a.345.345,0,0,1,.344-.344h3.576V22.8Zm5.926.976h-.84v-1.8h.84Z"
+					transform="translate(-58.623 -20.806)" fill="#000" />
+				<path id="Caminho_117" data-name="Caminho 117"
+					d="M69.918,45.089H60.133a1.512,1.512,0,0,0-1.51,1.51v1.646h.868l.345,6.126h1.826V53.206h-.724l-.279-4.96h3.05v.976h3.172v-.976h.9V47.08h-.9v-.825h3.037a.345.345,0,0,1,.344.345v.481H68.748v1.166h.645l-.247,4.616a.345.345,0,0,1-.344.345H63.23v1.166H68.8a1.5,1.5,0,0,0,1.509-1.479l.249-4.647h.867V46.6a1.512,1.512,0,0,0-1.51-1.51M59.789,47.08V46.6a.345.345,0,0,1,.344-.345h3.576v.825Zm5.926.975h-.84v-1.8h.84Z"
+					transform="translate(-58.623 -38.577)" fill="#000" />
+			</g>
+		</g>
 	</defs>
 </svg>
